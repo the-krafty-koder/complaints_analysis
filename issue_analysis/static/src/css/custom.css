@@ -1,0 +1,38 @@
+.navy{
+    background-color: #402951;
+}
+button{
+    height:2em;
+    font-size: 8px;
+    color: #5185f3;
+
+}
+button:hover{
+    background-color: #fff;
+}
+.lin{
+    font-size: 5px;
+}
+.cont{
+    border:5px solid #5185f3;
+    height:3em;
+    font-size: 40px;
+    margin-left:2em;
+}
+.cardy {
+     border:5px solid #402951;
+}
+.cd{
+    margin-top:2em;
+    margin-bottom:1em;
+}
+.imgy,img-thumbnail{
+    border:5px solid #402951;
+}
+.tes{
+    margin-top:1em;
+}
+
+.res{
+    padding-top:1em;
+}
